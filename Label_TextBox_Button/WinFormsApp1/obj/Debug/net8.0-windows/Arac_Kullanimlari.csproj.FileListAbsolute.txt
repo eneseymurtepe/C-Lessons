@@ -1,0 +1,16 @@
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Arac_Kullanimlari.exe
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Arac_Kullanimlari.deps.json
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Arac_Kullanimlari.runtimeconfig.json
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Arac_Kullanimlari.dll
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Arac_Kullanimlari.pdb
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.csproj.GenerateResource.cache
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.AssemblyInfoInputs.cache
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.AssemblyInfo.cs
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.dll
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\Arac_Kullanimlari.dll
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.pdb
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Arac_Kullanimlari.genruntimeconfig.cache
+C:\Users\EnesKübra\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\Arac_Kullanimlari.dll
