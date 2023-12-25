@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MaskedTextBox_PictureBox_DateTimePicker/1.0.0": {
+        "runtime": {
+          "MaskedTextBox_PictureBox_DateTimePicker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaskedTextBox_PictureBox_DateTimePicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
